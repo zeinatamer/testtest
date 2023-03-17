@@ -1,0 +1,106 @@
+.navbar-brand {
+  letter-spacing: 3px;
+  color: #c24244;
+}
+
+.navbar-brand:hover {
+	color: #c24244;
+}
+
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars {
+  color: #7f4722;
+}
+
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars {
+  color: #7f4722;
+}
+
+.navbar-scrolled {
+  background-color: #ffede7;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+body, html {
+    height: 100%;
+}
+
+.hero-image {
+
+  background-image: url("https://cdn.shopify.com/s/files/1/0015/1185/0042/files/Crumbs_and_Doilies_Cake_Makers_2062x1000_crop_center.jpg?v=1675693433");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+button {
+  background-color: rgb(255, 204, 204);
+  font-size: 30px;
+  border-radius: 4px;
+  border: 2px solid rgb(255, 204, 204);
+}
+.logo{
+    width: 800px;
+    display: inline-flex;
+}
+
+.logo img{
+    margin: auto 0px;
+    float: left;
+    width: 400;
+    height: 400;
+}
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+body5 {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 204, 204);
+}
+div.a {
+  text-align: left;
+}
+body, html {
+    height: 100%;
+}
+
+.hero-image3 {
+
+  background-image: url("https://cdn.shopify.com/s/files/1/0015/1185/0042/files/Mini_Cupcakes_Shop_the_Look_2400x1000_crop_center.jpg?v=1675691385");
+
+  height: 50%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text3 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
